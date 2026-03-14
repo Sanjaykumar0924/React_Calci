@@ -160,6 +160,7 @@ export default Calculator;
 ```
 ## OUTPUT
 
+![Calculator Output](Calci.png)
 
 
 ## RESULT
